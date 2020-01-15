@@ -1,6 +1,4 @@
-[
- {
-   "category": "Ética e lei",
+[{"category": "Ética e lei",
    "class": "etica",
    "checked": true,
    "featured":[{"title": "Fontface Ninja",
@@ -31,6 +29,4 @@
    "level": "Intermediário",
    "url": "https://portalconservador.com/livros/David-Friedman-As-Engrenagens-da-Liberdade.pdf",
    "desc": "Este livro se ocupa das ideias libertárias, não da história do \"movimento\" libertário ou de uma descrição do seu estado atual. Está na moda medir a importância das ideias pelo número e violência de seus defensores. Essa é uma moda que eu não vou seguir. Se quando terminar este livro você começar a compartilhar de muitas de minhas visões, você vai saber a coisa mais importante sobre o número de libertários: que ele aumentou em um desde que começou a leitura.",
-   "free": true
- }
-]
+   "free": true}]}]
