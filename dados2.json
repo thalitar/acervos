@@ -128,7 +128,7 @@
          "title": "",
          "url": "",
          "desc": "",
-         "free": null
+         "free": true
       }
    ],
    "items": [
@@ -249,13 +249,13 @@
  {
    "category": "Economia",
    "class": "economia",
-   "checked": null,
+   "checked": true,
    "featured": [
       {
          "title": "",
          "url": "",
          "desc": "",
-         "free": null
+         "free": true
       }
    ],
    "items": [
@@ -369,13 +369,13 @@
  {
    "category": "Estratégias e táticas",
    "class": "estrategia",
-   "checked": null,
+   "checked": true,
    "featured": [
       {
          "title": "",
          "url": "",
          "desc": "",
-         "free": null
+         "free": true
       }
    ],
    "items": [
