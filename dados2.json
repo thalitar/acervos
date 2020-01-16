@@ -1,0 +1,122 @@
+[
+ {
+   "category": "Ética e lei",
+   "class": "etica",
+   "checked": true,
+   "featured": [
+      {
+         "title": "Fontface Ninja",
+         "url": "https://fontface.ninja",
+         "desc": "Identify that cool font on the page you are browsing.",
+         "free": true
+      }
+   ],
+   "items": [
+      {
+         "title": "Against the State: An Anarcho-Capitalist Manifesto, Lew Rockwell",
+         "level": "Iniciante",
+         "url": "https://drive.google.com/open?id=0B7QMWpIthxZ4cG1SbzBxekdZQVU",
+         "desc": "Rockwell aplica a combinação de anarquismo individualista e economia austríaca de Rothbard na América contemporânea.",
+         "free": true
+      },
+      {
+         "title": "A Spontaneous Order: The Capitalist Case For A Stateless Society, Christopher Chase Rachels",
+         "level": "Iniciante",
+         "url": "https://archive.org/details/AgainstTheStateLlewellynH.RockwellJr_201408",
+         "desc": "A Spontaneous Order: The Capitalist Case For A Stateless Society é uma apresentação surpreendentemente concisa, rigorosa e acessível de ideais anarcocapitalistas. Abrange uma ampla gama de tópicos, incluindo: Dinheiro e Bancos, Monopólios e Cartéis, Seguros, Assistência Médica, Direito, Segurança, Pobreza, Educação, Ambientalismo e muito mais! Para apreciar essa leitura convincente, não é necessário conhecimento político, filosófico ou econômico anterior, pois todos os conceitos incomuns são definidos e explicados de uma maneira simples, mas intransigente. Preste atenção, este trabalho pode causar mudanças radicais de paradigma na sua compreensão do Estado e do Mercado Livre.",
+         "free": true
+      },
+      {
+         "title": "Libertarian Anarchy: Against the State, Gerard Casey",
+         "level": "Iniciante",
+         "url": "https://drive.google.com/open?id=0B7QMWpIthxZ4QVhpR1pJZDdFdDA",
+         "desc": "A filosofia política é dominada por um mito, o mito da necessidade do estado. O estado é considerado necessário para o fornecimento de muitas coisas, mas principalmente para a paz e a segurança. Gerard Casey argumenta que a ordem social pode ser gerada espontaneamente, que essa ordem espontânea é a norma na sociedade humana e que desvios das normas ordenadas podem ser tratados sem recorrer ao poder coercitivo do Estado.\nCasey apresenta uma nova perspectiva sobre a filosofia política, argumentando contra as religiões da filosofia política convencional e defendendo uma posição política específica, que ele identifica como \"anarquia libertária\". O livro inclui uma história do conceito de anarquia, um exame da possibilidade de sociedades anárquicas e uma articulação da natureza da lei e da ordem nessas sociedades. Casey apresenta sua forma específica de anarquia, sustentada por uma teoria da ação humana que prioriza a liberdade, como uma alternativa filosófica e politicamente viável às posições padrão da teoria política.",
+         "free": true
+      },
+      {
+         "title": "A Ética da Liberdade, Murray Rothbard",
+         "level": "Intermediário",
+         "url": "http://rothbardbrasil.com/wp-content/uploads/arquivos/A%20etica%20da%20liberdade%20-%20miolo%20capa%20brochura_2013.pdf",
+         "desc": "A ética da liberdade apresenta uma rigorosa e sofisticada defesa filosófica da liberdade, baseada no conceito do direito natural. Dando sequência à demonstração de seu mentor Mises de que a sociedade sem propriedade privada se degenera em caos econômico, Rothbard mostra que a interferência estatal sobre a propriedade privada representa uma invasão, que diminui a liberdade e a prosperidade. Suas conclusões radicais se mostram surpreendentemente práticas para lidar com dilemas éticos do dia-a-dia, tais como autodefesa, punições, direitos das crianças e dos animais, entre outros.",
+         "free": true
+      },
+      {
+         "title": "As Engrenagens da Liberdade, David Friedman",
+         "level": "Intermediário",
+         "url": "https://portalconservador.com/livros/David-Friedman-As-Engrenagens-da-Liberdade.pdf",
+         "desc": "Este livro se ocupa das ideias libertárias, não da história do \"movimento\" libertário ou de uma descrição do seu estado atual. Está na moda medir a importância das ideias pelo número e violência de seus defensores. Essa é uma moda que eu não vou seguir. Se quando terminar este livro você começar a compartilhar de muitas de minhas visões, você vai saber a coisa mais importante sobre o número de libertários: que ele aumentou em um desde que começou a leitura.",
+         "free": true
+      },
+      {
+         "title": "The Market for Liberty, Linda Tannehill, Morris Tannehill",
+         "level": "Intermediário",
+         "url": "https://cdn.mises.org/The%20Market%20for%20Liberty_2.pdf",
+         "desc": "Com mais de um quarto de século, o iconoclasta de Morris e Linda Tannehill \"The Market for Liberty\" é um dos livros mais importantes do nosso tempo. Escrito originalmente em 1970, é ainda mais relevante agora em uma era de liberdade pessoal que desaparece rapidamente, causada por um governo cada vez mais intrusivo e caro. \"The Market for Liberty\" é o antídoto para anos de doutrinação, mentiras e desinformação do governo. Usando uma linguagem clara e concisa, os Tannehills fornecem um repensar completo de toda a organização da sociedade, defendendo o uso da lei natural e a interação voluntária como base para ela, e não a força e coerção do governo.",
+         "free": true
+      },
+      {
+         "title": "The Economics and Ethics of Private Property, Hans-Hermann Hoppe",
+         "level": "Avançado",
+         "url": "https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.pdf",
+         "desc": "A economia austríaca coloca a propriedade privada no centro de sua análise de valor, preço e troca. O respeito à propriedade privada também está implícito no princípio moral fundamental: \"Não roube\". Hans-Hermann Hoppe dedicou o trabalho de sua vida à economia e à ética da propriedade privada. Este livro reúne alguns dos ensaios mais importantes de Hoppe sobre esse assunto. Hoppe, um dos principais estudantes e colegas de Murray Rothbard, cujas obras foram traduzidas para uma dúzia de idiomas, explora os aspectos econômicos, éticos, sociológicos e históricos da propriedade privada, mostrando como os direitos de propriedade são vitais para todos os aspectos da sociedade: emprego, interesse , dinheiro, bancos, ciclos comerciais, impostos, bens públicos, guerra, imperialismo e a ascensão e queda das civilizações.",
+         "free": true
+      },
+      {
+         "title": "Liberty, Games and Contracts: Jan Narveson and the Defence of Libertarianism, Malcolm Murray",
+         "level": "Avançado",
+         "url": "https://drive.google.com/open?id=1Y1WhLUCje3-Z5bK3gzUOium3-p8YUwJV",
+         "desc": "Jan Narveson é um dos defensores contemporâneos mais significativos da posição política libertária. Ao contrário de outros libertários que normalmente defendem sua opinião com referência aos direitos naturais ou um apelo ao utilitarismo, a principal contribuição de Narveson tem sido oferecer uma defesa filosófica do libertarianismo baseada em uma ética contratualista individualista hobbesiana. As críticas ao libertarianismo contratual de Narveson se enquadram em três categorias, aquelas que rejeitam a teoria moral contratual, aquelas que rejeitam qualquer ligação entre contratarianismo e libertarianismo e aquelas que acusam libertários de confluir liberdade com propriedade. Neste livro, Malcolm Murray reúne os críticos mais significativos de Narveson e apresenta seu trabalho juntamente com as respostas de Jan Narveson.",
+         "free": true
+      },
+      {
+         "title": "Universally Preferable Behaviour: A Rational Proof of Secular Ethics, Stefan Molyneux",
+         "level": "Avançado",
+         "url": "http://cdn.media.freedomainradio.com/feed/books/UPB/Universally_Preferable_Behaviour_UPB_by_Stefan_Molyneux_PDF.pdf",
+         "desc": "Em muitos contos de fadas, vive uma terrível fera de poder estupendo, um dragão ou um basilisco, que tiraniza as terras vizinhas. Os moradores locais tremem diante desse monstro; eles sacrificam seus animais, pagam dinheiro e sangue na esperança de aplacar seus impulsos assassinos. Ano após ano, década após década, onda após onda de campeões esperançosos tentam combinar sua força, virtude e astúcia contra esse terrível tirano. Tente - e falhe. Inevitavelmente, um homem dá um passo à frente e considera todos incongruentes. Ele é um garoto estável, filho de um sapateiro, aprendiz de padeiro - ou, às vezes, apenas um vagabundo. Este livro é a história do meu ataque pessoal a um animal desses. Essa \"fera\" é a crença de que é impossível definir um sistema ético objetivo, racional, secular e científico. Essa “besta” é a ilusão de que a moralidade deve ser perdida para sempre nos pântanos irracionais de deuses e governos, sempre sem justificativa lógica e definição clara ...",
+         "free": true
+      },
+      {
+         "title": "Teoria do caos, Robert P. Murphy",
+         "level": "Avançado",
+         "url": "https://portalconservador.com/livros/Robert-Murphy-Teoria-do-Caos.pdf",
+         "desc": "Entre os tópicos mais avançados na literatura libertária está os trabalhos que tentam mostrar como uma sociedade livre, sem estado pode existir. Robert Murphy enfrenta esse desafio e faz a primeira contribuição desse século para o anarcocapitalismo. Ele descreve como um sistema de seguros iria amparar a segurança e justiça privada.\nSuas aplicações são em parte empíricas e em parte especulativas, mas muito provocativas, rigorosas e fruto de pensamentos profundos. O título se refere ao suposto caos que se resulta eliminando o estado, mas Murphy mostra que ao contrário do caos, pode emergir uma liberdade ordenada. Todo mundo interessado em explorar os alcances da teoria anarquista deve ler esse pequeno livro",
+         "free": true
+      },
+      {
+         "title": "Anarchy and the Law: The Political Economy of Choice, Edward Stringham",
+         "level": "Avançado",
+         "url": "",
+         "desc": "O anarquismo de propriedade privada, também conhecido como libertarianismo anarquista, anarquismo individualista e anarcocapitalismo, é uma filosofia política e um conjunto de argumentos econômicos e jurídicos que sustentam que, assim como os mercados e instituições privadas da sociedade civil fornecem comida, abrigo e outras necessidades, mercados e contratos humanos devem fornecer lei e que o próprio Estado de Direito só pode ser entendido como uma instituição privada. Para o libertário, o estado e seus poderes policiais não são forças sociais benignas, mas um sistema de conquista, autoritarismo e ocupação. Mas enquanto libertários limitados do governo argumentam a favor de restrições políticas, libertários anarquistas argumentam que, para checar o governo contra abusos, o próprio estado deve ser substituído por uma ordem social de autogoverno baseada em contratos. De fato, a história contemporânea mostrou que um governo limitado é insustentável, pois é inerentemente instável e propenso à corrupção, sendo dependente da política de grupos de interesse da atual liderança do estado. Anarquia e a lei apresentam os ensaios mais importantes que explicam, debatem e examinam exemplos históricos de ordens apátridas.",
+         "free": true
+      },
+      {
+         "title": "The Enterprise of Law, Bruce L. Benson",
+         "level": "Avançado",
+         "url": "https://drive.google.com/open?id=1x96PJsMXMyCDRsAvUxvW0y8_AG6MkFB9",
+         "desc": "Benson argumenta que a insatisfação do público com instituições legais é tão prevalecente quanto a aversão pública a muitas instituições públicas. Isso não é de surpreender. São financiados por impostos, administrados por burocracias, são notoriamente ineficientes, carecem da capacidade de calcular economicamente e ignoram as demandas dos consumidores.\n\nEntão, existe outro caminho? Sim, e é aqui que Benson se choca: ​​ele quer uma privatização completa. Ele diz que as instituições do setor privado são capazes de estabelecer fortes incentivos que levam à criação e aplicação da lei. As restrições legais resultantes facilitam a interação e apóiam a ordem social, induzindo a cooperação e reduzindo o confronto violento.\n\nO grande mérito deste livro de Benson é provar essas proposições mil vezes - usando a história, a teoria e a análise política moderna - e apresentar o primeiro modelo teórico completo para compreendê-las. De certa forma, sua análise é louvável: ele apenas aplica a lógica do mercado à lei. De outro modo, é revolucionário porque ninguém mais na história o faz com mais rigor e energia, tanto que, na verdade, você nunca pensará no \"dever\" primário do Estado da mesma maneira.",
+         "free": true
+      },
+      {
+         "title": "The Privatization of Roads And Highways, Walter Block",
+         "level": "Avançado",
+         "url": "https://drive.google.com/open?id=1aVf3V0IIb07dzO_O5sm5Biam21kfE2E7",
+         "desc": "O Instituto Mises tem o prazer de apresentar o notável tratado de Walter Block em estradas privadas, um livro de 494 páginas que fará você repensar todo o modo como as redes de transporte modernas operam. É ousado, inovador, radical, convincente e mostra como a teoria econômica de livre mercado é a lente esclarecedora através da qual enxergamos as falhas do Estado e a alternativa que é consistente com a liberdade humana. Ele mostra que mesmo o pior cenário da vida sob propriedade privada de estradas seria fantástico em comparação com a realidade existente de propriedade de estradas pelo governo, o que é terrível de maneiras que não percebemos completamente até que Block explique completamente. (pense em mortes na estrada).",
+         "free": true
+      },
+      {
+         "title": "Against Intellectual Property, N. Stephan Kinsella",
+         "level": "Avançado",
+         "url": "https://nakamotoinstitute.org/static/docs/against-ip.pdf",
+         "desc": "Uma sociedade libertária reconheceria patentes como legítimas? E quanto aos direitos autorais? Em Contra a propriedade intelectual, Stephan Kinsella, advogado de patentes com muitos anos de experiência, oferece sua resposta a essas perguntas. Kinsella é totalmente contrário à propriedade intelectual, e ele explica sua posição neste livro breve, mas abrangente.",
+         "free": true
+      },
+      {
+         "title": "Sem Traição, Lysander Spooner",
+         "level": "Iniciante",
+         "url": "https://pavimentandoestradas.files.wordpress.com/2017/10/sem-traicao-lysander-spooner-pdf.pdf",
+         "desc": "Spooner examina a validade potencial da Constituição dos Estados Unidos como um contrato vinculativo, apontando que não poderia ter autoridade inerente e duradoura, exceto como contrato entre homens, e afirma ser um entre as pessoas existentes quando foi escrito.",
+         "free": true
+      }
+   ]
+}
+]
