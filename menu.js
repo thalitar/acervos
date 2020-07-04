@@ -1,5 +1,4 @@
-function($) { // Begin jQuery
-  $(function() { // DOM ready
+$(function() { // DOM ready
     // If a link has a dropdown, add sub menu toggle.
     $('nav ul li a:not(:only-child)').click(function(e) {
       $(this).siblings('.nav-dropdown').toggle();
